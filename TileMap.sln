@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TileMap", "TileMap.vcxproj", "{BDA5C5A9-81C3-4913-B915-6467134D5ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Debug|x64.ActiveCfg = Debug|x64
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Debug|x64.Build.0 = Debug|x64
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Debug|x86.Build.0 = Debug|Win32
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Release|x64.ActiveCfg = Release|x64
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Release|x64.Build.0 = Release|x64
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Release|x86.ActiveCfg = Release|Win32
+		{BDA5C5A9-81C3-4913-B915-6467134D5ECB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1F37A7-EF64-4C69-A6E3-1609CC81A335}
+	EndGlobalSection
+EndGlobal
